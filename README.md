@@ -38,7 +38,7 @@ I mainly work with **Rust**, **TypeScript**, and **Dart**, enabling me to create
 
 ## Contact
 
-Want to talk DevOps, automation, or backend engineering?  
+Want to talk DevOps, automation, or any else?  
 Feel free to reach out!
 
 [LinkedIn](https://www.linkedin.com/in/jorisvilardell)
