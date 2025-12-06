@@ -12,9 +12,10 @@ My ambition: keep learning, experimenting, and contributing to projects where au
 
 ## Currently
 
-- ⚙️ Automating internal tooling and infrastructure at **Hardis Group**
-- 🛠 Building CI/CD pipelines with **GitHub Actions**, **Docker**, and cloud-based container platforms
-- 📦 Developing backends and full-stack systems using **Rust**, **TypeScript**, and **Dart**
+- 📍 **Actually**: Working as a DevOps Engineering Apprentice at **Hardis Group**.
+- 💻 **Development**: Building efficient applications and internal tools using **Rust**, **TypeScript**, and **Java**.
+- ⚙️ **GitOps**: Designing CI/CD pipelines with **GitHub Actions** and enforcing GitOps workflows via **ArgoCD**.
+- ☁️ **Infrastructure**: Orchestrating cloud resources on **Azure** and **Kubernetes** using Infrastructure as Code.
 
 ## Languages I use
 
@@ -32,8 +33,8 @@ I mainly work with **Rust**, **TypeScript**, and **Dart**, enabling me to create
 
 - **Backend**: AdonisJS, Rust, Node.js 
 - **Frontend**: VueJS, React, Flutter  
-- **DevOps & CI/CD**: GitHub Actions, Docker, Kubernetes  
-- **Cloud & Infrastructure**: Azure, PostgreSQL, MySQL, Redis, MongoDB
+- **GitOps**: GitHub Actions, ArgoCD, Azure DevOps
+- **Cloud & Infrastructure**: Azure, Kubernetes, Docker, Terraform/OpenTofu
 
 ## Contact
 
